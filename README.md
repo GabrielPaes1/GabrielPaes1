@@ -2,7 +2,7 @@
 #### Estudande de Tecnologia, cursando Análise e Desenvolvimento de Sistemas na FATEC.
 #### Estou no 6º Semestre, com previsão de se formar em Dezembro de 2022.
 ##
-<div align="left">
+<div align="center">
   <a href="https://github.com/GabrielPaes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&langs_count=7&theme=tokyonight"/>
