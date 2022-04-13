@@ -4,7 +4,7 @@
 
 ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/GabrielPaes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -37,4 +37,3 @@
 <div> 
   <a href = "mailto:gabriel.2paes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-lima-paes-69bb31218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/Kaatun#4852" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
