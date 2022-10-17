@@ -29,7 +29,7 @@
 ##
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPaes1)](https://github.com/GabrielPaes1/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&include_all_commits=true&theme=github_dark)
 </div>
 
 Contato:
