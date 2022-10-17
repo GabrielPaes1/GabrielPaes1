@@ -3,13 +3,7 @@
 #### Estou no 6º Semestre, com previsão de se formar em Dezembro de 2022.
 
 ##
-
-<div align="center">
-  <a href="https://github.com/GabrielPaes1">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
+ 
 #### Atualmente, possuo conhecimentos nas seguintes linguagens:
   <img align="left" alt="Gabriel-C" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="left" alt="Gabriel-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -33,6 +27,10 @@
 
 &nbsp;
 ##
+
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPaes1)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 Contato:
 <div> 
