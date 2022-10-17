@@ -29,7 +29,7 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&include_all_commits=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=github_dark)
 
 Contato:
 <div> 
