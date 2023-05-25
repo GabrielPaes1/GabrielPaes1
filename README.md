@@ -1,6 +1,6 @@
 ## Olá, sou o Gabriel de Lima Paes.
 #### Estudante de Tecnologia, formado em Análise e Desenvolvimento de Sistemas na FATEC.
-#### Atualmente fazendo Pós-graduação em Densenvolvimento Full Stack, e Big Data e Inteligência Competitiva na Descomplica.
+#### Atualmente fazendo Pós-graduação em Desenvolvimento Full Stack, e Big Data e Inteligência Competitiva na Descomplica.
 
 ##
  
@@ -36,8 +36,8 @@
 ##
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&include_all_commits=true&theme=github_dark" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=github_dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&include_all_commits=true&theme=github_dark" align = "left"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=github_dark" align = "left"/>
 </p>
 
 Contato:
