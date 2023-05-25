@@ -14,7 +14,7 @@
   <img align="left" title="TypeScript" alt="TypeScript" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="left" title="React.js" alt="React.js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="left" title="Node.js" alt="Node.js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="left" title="Next.js" alt="Next.js" height="45" width="40" src="https://i.imgur.com/Sewmasb.png">
+  <img align="left" title="Next.js" alt="Next.js" height="45" width="auto" src="https://i.imgur.com/Sewmasb.png">
   <img align="left" title="HTML" alt="HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" title="CSS" alt="CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -28,8 +28,8 @@
   <img align="left" title="Angular" alt="Angular" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="left" title="Nest.js" alt="Nest.js" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="left" title="Laravel" alt="Laravel" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="left" title="WordPress" alt="WordPress" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="left" title="Nuxt.js" alt="Nuxt.js" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg">
+  <img align="left" title="WordPress" alt="WordPress" height="45" width="40" src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg">
+  <img align="left" title="Nuxt.js" alt="Nuxt.js" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
 </div>
 
 &nbsp;
