@@ -35,8 +35,10 @@
 &nbsp;
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&include_all_commits=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=github_dark)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&include_all_commits=true&theme=github_dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=github_dark" align = "center"/>
+</p>
 
 Contato:
 <div> 
