@@ -35,12 +35,13 @@
 &nbsp;
 ##
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&include_all_commits=true&theme=github_dark" align = "left"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=github_dark" align = "left"/>
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&include_all_commits=true&theme=github_dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=github_dark" align = "center"/>
 </p>
 
 Contato:
 <div> 
   <a href = "mailto:gabriel.2paes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-lima-paes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
