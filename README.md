@@ -6,7 +6,6 @@
  
 #### Minha Stack:
 <div>
-  <img align="left" title="C" alt="C" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="left" title="Java" alt="Java" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="left" title="CSharp" alt="CSharp" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="left" title="Vue.js" alt="Vue.js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
