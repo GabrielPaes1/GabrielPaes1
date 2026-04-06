@@ -57,7 +57,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPaes1&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaes1&layout=compact&theme=dracula)
