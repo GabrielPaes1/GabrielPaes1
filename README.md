@@ -3,7 +3,7 @@
 💻 Desenvolvedor Full Stack focado em construção de aplicações web escaláveis  
 🎓 Estudante de Tecnologia  
 📚 Formado em Análise e Desenvolvimento de Sistemas - FATEC  
-🚀 Pós-graduado em Desenvolvimento Full Stack e Big Data & Inteligência Competitiva  
+🚀 Pós-graduado em Desenvolvimento Full Stack, e Big Data & Inteligência Competitiva - Descomplica
 
 ---
 
@@ -11,38 +11,38 @@
 
 ### 🎨 Front-end
 <div>
-  <img title="Vue.js" alt="Vue.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img title="React.js" alt="React.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="JavaScript" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img title="TypeScript" alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img title="Bootstrap" alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img title="Vue.js" alt="Vue.js" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img title="React.js" alt="React.js" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="JavaScript" alt="JavaScript" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img title="TypeScript" alt="TypeScript" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img title="Bootstrap" alt="Bootstrap" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 ---
 
 ### ⚙️ Back-end
 <div>
-  <img title="Java" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img title="Node.js" alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="PHP" alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img title="Laravel" alt="Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img title="CodeIgniter" alt="CodeIgniter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
+  <img title="Java" alt="Java" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img title="Node.js" alt="Node.js" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img title="PHP" alt="PHP" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img title="Laravel" alt="Laravel" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
+  <img title="CodeIgniter" alt="CodeIgniter" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
 </div>
 
 ---
 
 ### 🗄️ Banco de Dados
 <div>
-  <img title="MySQL" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img title="PostgreSQL" alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img title="MySQL" alt="MySQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img title="PostgreSQL" alt="PostgreSQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
 ---
 
 ### 🛠️ Ferramentas & DevOps
 <div>
-  <img title="Docker" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-  <img title="Figma" alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img title="Docker" alt="Docker" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+  <img title="Figma" alt="Figma" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
 
 ---
